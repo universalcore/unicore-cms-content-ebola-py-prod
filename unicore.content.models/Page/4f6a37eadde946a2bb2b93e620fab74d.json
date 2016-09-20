@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "815fddc1af0c4664a724493bb8f2e847"
+  ], 
   "id": null, 
   "content": "Les experts en sant\u00e9 publique \u00ab soup\u00e7onnent fortement \u00bb l\u2019existence d\u2019un lien entre le virus et le pic actuel de microc\u00e9phalie au Br\u00e9sil. Si vous \u00eates enceinte ou envisagez de le devenir, veillez \u00e0 bien vous prot\u00e9ger des piq\u00fbres de moustiques et cherchez conseil aupr\u00e8s des agents de sant\u00e9. Bien qu\u2019on ne dispose pas encore de preuve concluante sur l\u2019existence d\u2019un lien entre le virus Zika et la microc\u00e9phalie, la situation est suffisamment pr\u00e9occupante pour justifier une action imm\u00e9diate.\r\n\r\nArticle suivant :\r\n", 
   "source": "6d21ab694d9743fe9febfbd8f2386123", 
