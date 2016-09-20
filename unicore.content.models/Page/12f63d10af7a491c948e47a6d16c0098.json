@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "511091705e89447fb37269c816731e32"
+  ], 
   "id": null, 
   "content": "Le virus est transmis \u00e0 l\u2019homme par la piq\u00fbre d\u2019un moustique Aedes infect\u00e9 ; il peut \u00e9galement l\u2019\u00eatre par voie sanguine. De possibles cas de transmission sexuelle de la maladie sont en cours d\u2019investigation.\r\n\r\nArticle suivant :\r\n", 
   "source": "9f451b86032f4e42b29eb31d3e2e3900", 
