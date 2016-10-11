@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Si vous \u00eates enceinte ou envisagez de le devenir, soyez particuli\u00e8rement vigilantes.", 
+  "language": "fre_FR", 
+  "title": "Les femmes enceintes devraient-elles s\u2019inqui\u00e9ter de ce virus?", 
+  "primary_category": "59ad188c318040759214cc3caaa167c7", 
+  "created_at": "2016-09-20T14:51:26.835538+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-20T14:51:26.835777+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "815fddc1af0c4664a724493bb8f2e847"
+  ], 
+  "id": null, 
+  "content": "Les experts en sant\u00e9 publique \u00ab soup\u00e7onnent fortement \u00bb l\u2019existence d\u2019un lien entre le virus et le pic actuel de microc\u00e9phalie au Br\u00e9sil. Si vous \u00eates enceinte ou envisagez de le devenir, veillez \u00e0 bien vous prot\u00e9ger des piq\u00fbres de moustiques et cherchez conseil aupr\u00e8s des agents de sant\u00e9. Bien qu\u2019on ne dispose pas encore de preuve concluante sur l\u2019existence d\u2019un lien entre le virus Zika et la microc\u00e9phalie, la situation est suffisamment pr\u00e9occupante pour justifier une action imm\u00e9diate.\r\n\r\nArticle suivant :\r\n", 
+  "source": "6d21ab694d9743fe9febfbd8f2386123", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "eda6368375fd493b8696ca9a1e2bf203", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "les-femmes-enceintes-devraient-elles-sinquieter-de-ce-virus", 
+  "uuid": "4f6a37eadde946a2bb2b93e620fab74d"
+}

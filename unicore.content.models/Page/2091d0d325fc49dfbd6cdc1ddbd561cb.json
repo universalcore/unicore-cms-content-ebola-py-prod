@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Conna\u00eetre les traitements disponibles", 
+  "language": "fre_FR", 
+  "title": "Comment traite-t-on la maladie \u00e0 virus Zika ?", 
+  "primary_category": "59ad188c318040759214cc3caaa167c7", 
+  "created_at": "2016-09-20T14:52:35.352958+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-20T14:52:35.353192+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "4f6a37eadde946a2bb2b93e620fab74d"
+  ], 
+  "id": null, 
+  "content": "On peut traiter les sympt\u00f4mes de la maladie \u00e0 virus Zika \u00e0 l\u2019aide des m\u00e9dicaments habituellement employ\u00e9s contre la douleur et la fi\u00e8vre (surtout, ne pas prendre d\u2019aspirine ni d\u2019anti-inflammatoires non st\u00e9ro\u00efdiens), en se reposant et en buvant beaucoup d\u2019eau.\r\n\r\nIl n\u2019existe ni vaccin contre cette maladie ni traitement sp\u00e9cifique. Si les sympt\u00f4mes s\u2019aggravent, il convient de consulter un m\u00e9decin.\r\n\r\nArticle suivant :\r\n", 
+  "source": "4258f0292d4d422da3f7dc514e233460", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "ab7dbcfa00234c10b4aad72576d83a8a", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-traite-t-la-maladie-virus-zika", 
+  "uuid": "2091d0d325fc49dfbd6cdc1ddbd561cb"
+}

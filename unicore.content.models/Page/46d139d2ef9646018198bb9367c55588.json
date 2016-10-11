@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Aidez l\u2019UNICEF \u00e0 faire passer le message", 
+  "language": "fre_FR", 
+  "title": "Quelle action l\u2019UNICEF m\u00e8ne-t-elle ?", 
+  "primary_category": "59ad188c318040759214cc3caaa167c7", 
+  "created_at": "2016-09-20T14:49:17+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-20T14:58:24.237516+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "0c10b289c2014dce9584646cc47dcbf6"
+  ], 
+  "id": null, 
+  "content": "L\u2019UNICEF aide \u00e0 limiter la propagation du virus Zika et \u00e0 att\u00e9nuer son impact sur les enfants et leurs familles, en particulier au sein des communaut\u00e9s les plus d\u00e9favoris\u00e9es. Nous travaillons avec les gouvernements afin d\u2019encourager les communaut\u00e9s \u00e0 mener une action de protection contre l\u2019infection et avons lanc\u00e9 un appel visant \u00e0 r\u00e9unir les 14 millions de dollars n\u00e9cessaires pour r\u00e9pondre aux besoins humanitaires imm\u00e9diats des communaut\u00e9s touch\u00e9es.\r\n\r\nCes fonds serviront \u00e0 apporter aux presque 200 millions de personnes que comptent ces communaut\u00e9s les informations dont elles ont besoin pour se prot\u00e9ger. Pour plus de renseignements sur notre appel, veuillez consulter ce [site internet UNICEF.][1] \r\n\r\nArticle suivant :\r\n\r\n\r\n  [1]: http://www.unicef.org/appeals/Zika_response.html", 
+  "source": "16e3fe6019604a849593379b799ca2f4", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "d5160e175c5a46fb8055c0becc110081", 
+  "published": null, 
+  "position": 7, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "quelle-action-lunicef-mene-t-elle", 
+  "uuid": "46d139d2ef9646018198bb9367c55588"
+}

@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Reconna\u00eetre les sympt\u00f4mes du virus Zika", 
+  "language": "fre_FR", 
+  "title": "Quels sont les sympt\u00f4mes du virus Zika?", 
+  "primary_category": "59ad188c318040759214cc3caaa167c7", 
+  "created_at": "2016-09-20T14:54:56.342374+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-20T14:54:56.342633+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "8a1da443089b4d12b1a5bfd3a2844ee6"
+  ], 
+  "id": null, 
+  "content": "Principaux sympt\u00f4mes du virus Zika : \r\n\r\n- Maux de t\u00eate\r\n- L\u00e9g\u00e8re fi\u00e8vre\r\n- Conjonctivite (yeux rouges)\r\n- \u00c9ruptions cutan\u00e9es\r\n- Douleurs musculaires et articulaires\r\n\r\nLes personnes infect\u00e9es par le virus Zika peuvent pr\u00e9senter ces sympt\u00f4mes. \r\n\r\nElles ne se sentent g\u00e9n\u00e9ralement pas suffisamment malades pour se rendre \u00e0 l\u2019h\u00f4pital et n\u2019ont pas forc\u00e9ment conscience d\u2019avoir \u00e9t\u00e9 infect\u00e9es. En r\u00e9alit\u00e9, seule 1 personne sur 4 d\u00e9veloppera des sympt\u00f4mes.\r\n\r\nSi vous pr\u00e9sentez ces sympt\u00f4mes ou recevez un diagnostic de Zika, prenez des mesures contre les piq\u00fbres de moustiques pour prot\u00e9ger les membres de votre famille contre cette maladie.\r\n\r\nArticle suivant :\r\n", 
+  "source": "b7162cf27df34bcb99a4bcbe386acb8e", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "d4c439e078ce4c99b96c7b0f0faf5753", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "quels-sont-les-symptomes-du-virus-zika", 
+  "uuid": "511091705e89447fb37269c816731e32"
+}

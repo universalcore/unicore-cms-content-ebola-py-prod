@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Une propagation rapide !", 
+  "language": "fre_FR", 
+  "title": "O\u00f9 se trouve le virus Zika ?", 
+  "primary_category": "59ad188c318040759214cc3caaa167c7", 
+  "created_at": "2016-09-20T14:57:20.592048+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-09-20T14:57:20.592253+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "12f63d10af7a491c948e47a6d16c0098"
+  ], 
+  "id": null, 
+  "content": "Zika constitue maintenant une situation d\u2019urgence en mati\u00e8re de sant\u00e9 publique dans de nombreuses r\u00e9gions d\u2019Am\u00e9rique latine et des Cara\u00efbes. Plus de 30 pays et territoires ont signal\u00e9 des cas de Zika, dont 26 dans les Am\u00e9riques, le Br\u00e9sil \u00e9tant le plus touch\u00e9. \r\n\r\nConsultez les derni\u00e8res informations sur la distribution g\u00e9ographique des cas confirm\u00e9s de virus Zika dans les pays et territoires des Am\u00e9riques sur [la carte officielle de l\u2019Organisation panam\u00e9ricaine de la Sant\u00e9][1] \r\n\r\nArticle suivant :\r\n\r\n\r\n  [1]: http://ais.paho.org/phip/viz/ed_zika_countrymap.asp", 
+  "source": "571f1bb6a72b4ff79687359399d01838", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "001c5e60179a4fbf909c932b606941c2", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "ou-se-trouve-le-virus-zika", 
+  "uuid": "643f1e1356c04f96ba95774ae319c363"
+}
